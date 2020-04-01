@@ -1,0 +1,20 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Shayan Hosseini"
+theme = "hugo-xmin"
+footnotereturnlinkcontents = "↩"
+pygmentsuseclasses = true 
+
+staticDir = ["static"]
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+[markup.goldmark.renderer]
+unsafe= true
