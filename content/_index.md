@@ -2,7 +2,7 @@
 title: Home 
 ---
 
-<img style="display: inline-block; float:right; margin: 10px 0px 0px 10px;" height="200" width="200" src="/shayan2.jpg" alt="Shayan" />
+<img style="display: inline-block; float:right; margin: 10px 0px 0px 10px;" height="25%" width="25%" src="/shayan2.jpg" alt="Shayan" />
 
 My name is Shayan Hosseini, natively written as شایان حسینی.\
 I am currently an undergraduate student pursuing a Bachelor's in Computer Engineering at the [ECE Department]("http://ece.ut.ac.ir/) of the [University of Tehran](http://ut.ac.ir/).
