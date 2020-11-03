@@ -18,3 +18,7 @@ date: 2020-08-22T19:42:56+04:30
 > Pessimists sound smart. Optimists make money.
 >
 > -- <cite>Nat Friedman</cite>
+
+> When I was younger and first started thinking about my future, I decided to either become a professor or start a company. I felt that either option would give me a lot of autonomy—the freedom to think from first principles and real-world physics rather than having to accept the prevailing “wisdom.”
+>
+> -- <cite>Larry Page</cite>
