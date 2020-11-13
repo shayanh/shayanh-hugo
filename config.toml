@@ -16,8 +16,8 @@ staticDir = ["static"]
     url = "/posts/"
     weight = 2
 [[menu.main]]
-    name = "Quotes"
-    url = "/quotes/"
+    name = "Fav. Quotes"
+    url = "/fav-quotes/"
     weight = 3
 
 [markup.goldmark.renderer]
