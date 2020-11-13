@@ -5,7 +5,7 @@ title: Home
 <img style="display: inline-block; float:right; margin: 10px 0px 0px 10px;" height="25%" width="25%" src="/shayan2.jpg" alt="Shayan" />
 
 My name is Shayan Hosseini, natively written as شایان حسینی.\
-I will be joining the [Systopia lab](https://systopia.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/) as a graduate student in January 2021. I completed my Bachelor’s in Computer Engineering at the [ECE Department]("http://ece.ut.ac.ir/) of the [University of Tehran](http://ut.ac.ir/).
+I will be joining the [Systopia lab](https://systopia.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/) as a graduate student in January 2021. I completed my Bachelor’s in Computer Engineering at the [ECE Department](http://ece.ut.ac.ir/) of the [University of Tehran](http://ut.ac.ir/).
 
 From 2015 to 2020, I was working at [Cafebazaar](http://cafebazaar.ir/), the most popular Android application store in Iran, with more than 35 million users. During these years, I was served as a Software Engineer, Product Manager, Technical Lead, and Software Engineering Manager. One of my main contributions was building a distributed object storage and a content delivery network. Moreover, I was one of the co-founders of Hezardastan Cloud Services, which is a subsidiary of Cafebazaar that provides public cloud services to other companies.
 
