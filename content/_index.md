@@ -11,7 +11,7 @@ completed my Bachelor’s in Computer Engineering at the [ECE
 Department](http://ece.ut.ac.ir/) of the [University of
 Tehran](http://ut.ac.ir/).
 
-From 2015 to 2020, I was working at [Cafebazaar](http://cafebazaar.ir/), the
+From 2015 to 2020, I worked at [Cafebazaar](http://cafebazaar.ir/), the
 most popular Android application store in Iran, with more than 35 million
 users. During these years, I served as a Software Engineer, Product Manager,
 Technical Lead, and Software Engineering Manager. One of my main contributions
@@ -22,15 +22,15 @@ subsidiary of Cafebazaar that provides public cloud services to other companies
 
 In 2021, I started the [Peydaa](https://peydaa.ir/) project. Peydaa is a
 non-profit platform to make transparency in the Iranian job market. It is a
-website that people can anonymously share their salary and experience of
+website where people can anonymously share their salary and experience of
 working in companies with others. Currently, more than 600 users have shared
 their salaries and experiences on Peydaa.
 
 I have an extensive background in algorithms, combinatorics, and graph theory.
-In high school, I won silver medal in the [Iranian National Olympiad in
-Informatics](http://inoi.ir/). I later achieved the 2nd place in [Tehran ACM
-ICPC Regional Contest](https://icpc.ir/) twice in
-[2016](http://icpc.sharif.edu/acmicpc16/scoreboard/),
+In high school, I won a silver medal in the [Iranian National Olympiad in
+Informatics](http://inoi.ir/). Later, I achieved 2nd place in [Tehran ICPC
+Regional Contest](https://icpc.ir/) twice in
+[2016](http://icpc.sharif.edu/acmicpc16/scoreboard/) and
 [2017](http://icpc.sharif.edu/acmicpc17/scoreboard/). Also, I got 56th place in
 [ICPC World Finals 2017](https://icpc.global/community/results-2017).
 
