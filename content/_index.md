@@ -4,14 +4,13 @@ title: Home
 
 <img style="display: inline-block; float:right; margin: 10px 0px 0px 10px;" height="25%" width="25%" src="/shayan2.jpg" alt="Shayan" />
 
-My name is Shayan Hosseini.  I’m a Computer Science MSc student at the
-[University of British Columbia](https://www.ubc.ca/), working under the
-supervision of [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/). I
-completed my Bachelor’s in Computer Engineering at the [ECE
-Department](http://ece.ut.ac.ir/) of the [University of
-Tehran](http://ut.ac.ir/).
+My name is Shayan Hosseini. I'm a computer science MSc student at the
+[University of British Columbia](https://www.ubc.ca/). I'm working with [Ivan
+Beschastnikh](https://www.cs.ubc.ca/~bestchai/) on distributed systems and
+software verification. I completed my BSc in computer engineering at the
+[University of Tehran](http://ut.ac.ir/en).
 
-From 2015 to 2020, I worked at [Cafebazaar](http://cafebazaar.ir/), the
+From 2015 to 2020, I worked at [Cafebazaar](https://cafebazaar.ir/app?l=en), the
 most popular Android application store in Iran, with more than 35 million
 users. During these years, I served as a Software Engineer, Product Manager,
 Technical Lead, and Software Engineering Manager. One of my main contributions
@@ -34,9 +33,8 @@ Regional Contest](https://icpc.ir/) twice in
 [2017](http://icpc.sharif.edu/acmicpc17/scoreboard/). Also, I got 56th place in
 [ICPC World Finals 2017](https://icpc.global/community/results-2017).
 
-The research area I focus on is distributed systems. Currently, I am working on
-the [PGo](https://github.com/UBC-NSS/pgo) project. PGo compiles verifiable
-models of distributed systems into implementations in Go.
+I am now working on the [PGo](https://github.com/UBC-NSS/pgo) project. PGo
+compiles verifiable models of distributed systems into implementations in Go.
 
 #### Research Interests:
 
