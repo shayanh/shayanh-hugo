@@ -10,13 +10,13 @@ Beschastnikh](https://www.cs.ubc.ca/~bestchai/) on distributed systems and
 software verification. I completed my BSc in computer engineering at the
 [University of Tehran](http://ut.ac.ir/en).
 
-From 2015 to 2020, I worked at [Cafebazaar](https://cafebazaar.ir/app?l=en), the
+From 2015 to 2020, I worked at [Cafe Bazaar](https://cafebazaar.ir/app?l=en), the
 most popular Android application store in Iran, with more than 35 million
 users. During these years, I served as a Software Engineer, Product Manager,
 Technical Lead, and Software Engineering Manager. One of my main contributions
 was building a distributed object storage and a content delivery network.
-Moreover, I was one of the co-founders of Cafebazaar Cloud, which is a
-subsidiary of Cafebazaar that provides public cloud services to other companies
+Moreover, I was one of the co-founders of Cafe Bazaar Cloud, which is a
+subsidiary of Cafe Bazaar that provides public cloud services to other companies
 (rebranded as [Sotoon](https://sotoon.ir/) later).
 
 In 2021, I started the [Peydaa](https://peydaa.ir/) project. Peydaa is a
