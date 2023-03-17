@@ -2,50 +2,29 @@
 title: Home 
 ---
 
-<img style="display: inline-block; float:right; margin: 10px 0px 0px 10px;" height="25%" width="25%" src="/shayan2.jpg" alt="Shayan" />
+<img style="display: inline-block; float:right; margin: 10px 0px 0px 10px;" height="35%" width="35%" src="/shayan3.jpg" alt="Shayan" />
 
 My name is Shayan Hosseini. I'm a computer science MSc student at the
 [University of British Columbia](https://www.ubc.ca/). I'm working with [Ivan
 Beschastnikh](https://www.cs.ubc.ca/~bestchai/) on distributed systems and
-software verification. I completed my BSc in computer engineering at the
-[University of Tehran](http://ut.ac.ir/en).
+software verification. I spent 2022 summer at Microsoft Research working on
+datacenter networking problems.
 
-From 2015 to 2020, I worked at [Cafe Bazaar](https://cafebazaar.ir/app?l=en), the
-most popular Android application store in Iran, with more than 35 million
-users. During these years, I served as a Software Engineer, Product Manager,
-Technical Lead, and Software Engineering Manager. One of my main contributions
-was building a distributed object storage and a content delivery network.
-Moreover, I was one of the co-founders of Cafe Bazaar Cloud, which is a
-subsidiary of Cafe Bazaar that provides public cloud services to other companies
-(rebranded as [Sotoon](https://sotoon.ir/) later).
+I spent 5 years in industry building cloud serivces where I managed teams of size
+5-10. I was an early member of the internal inftrastructure team and co-led the
+transition of the team into a public cloud company, sotoon.ir.
 
-In 2021, I started the [Peydaa](https://peydaa.ir/) project. Peydaa is a
-non-profit platform to make transparency in the Iranian job market. It is a
-website where people can anonymously share their salary and experience of
-working in companies with others. Currently, more than 600 users have shared
-their salaries and experiences on Peydaa.
-
-I have an extensive background in algorithms, combinatorics, and graph theory.
-In high school, I won a silver medal in the [Iranian National Olympiad in
-Informatics](http://inoi.ir/). Later, I achieved 2nd place in [Tehran ICPC
-Regional Contest](https://icpc.ir/) twice in
-[2016](http://icpc.sharif.edu/acmicpc16/scoreboard/) and
-[2017](http://icpc.sharif.edu/acmicpc17/scoreboard/). Also, I got 56th place in
-[ICPC World Finals 2017](https://icpc.global/community/results-2017).
-
-I am now working on the [PGo](https://github.com/UBC-NSS/pgo) project. PGo
-compiles verifiable models of distributed systems into implementations in Go.
-
-#### Research Interests:
-
-*   Distributed Systems
-*   Software Engineering
-*   Computer Systems and Networks
-*   Formal Verification
+I was an avid competitive programmer during my high school and undergrad years.
+I won several awards in informatics olympiad and ACM ICPC contests.
 
 You can find my resume [here](/shayan-resume.pdf).
 
-#### Contact:
+### Publications:
 
+**Compiling Distributed System Models with PGo**\
+Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh\
+ASPLOS 2023
+
+### Contact:
 Email me to sshayanh at cs.ubc.ca\
 [GitHub](https://github.com/shayanh), [LinkedIn](https://www.linkedin.com/in/shayan-hosseini), [Twitter](https://twitter.com/seshayanh)
