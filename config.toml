@@ -4,21 +4,34 @@ title = "Shayan Hosseini"
 theme = "hugo-xmin"
 footnotereturnlinkcontents = "↩"
 pygmentsuseclasses = true 
+googleAnalytics = "G-QZZ44BM0HD"
 
 staticDir = ["static"]
+
+enableGitInfo = true
 
 [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
+    name = "Resume"
+    url = "/shayan-resume.pdf"
     weight = 2
 [[menu.main]]
-    name = "Fav. Quotes"
-    url = "/fav-quotes/"
+    name = "Projects"
+    url = "/projects/"
     weight = 3
+[[menu.main]]
+    name = "Misc"
+    url = "/misc/"
+    weight = 4
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[frontmatter]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+[params]
+footer = "Last update: {Lastmod}"

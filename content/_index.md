@@ -2,29 +2,79 @@
 title: Home 
 ---
 
-<img style="display: inline-block; float:right; margin: 10px 0px 0px 10px;" height="35%" width="35%" src="/shayan3.jpg" alt="Shayan" />
+# Shayan Hosseini
 
-My name is Shayan Hosseini. I'm a computer science MSc student at the
-[University of British Columbia](https://www.ubc.ca/). I'm working with [Ivan
-Beschastnikh](https://www.cs.ubc.ca/~bestchai/) on distributed systems and
-software verification. I spent 2022 summer at Microsoft Research working on
-datacenter networking problems.
+<div class="row">
 
-I spent 5 years in industry building cloud serivces where I managed teams of size
-5-10. I was an early member of the internal inftrastructure team and co-led the
-transition of the team into a public cloud company, sotoon.ir.
+<div class="col-sm-4 order-sm-2 mb-3">
+    <img src="/shayan3.jpg">
+</div>
 
-I was an avid competitive programmer during my high school and undergrad years.
-I won several awards in informatics olympiad and ACM ICPC contests.
+<div class="col-sm-8 order-sm-1 mb-3">
+
+<!--#### I'm a software engineer, and I'm on the job market!-->
+
+I'm a computer science MSc student at the University of British Columbia. I'm
+working with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) on
+distributed systems and software verification. During the summer of 2022, I worked
+at Microsoft Research Redmond, building tools for operating large data 
+centers.
+
+I spent 5 years in the industry building cloud services, where I managed
+teams of 5-10 engineers. I was an early member of the internal infrastructure
+team at [Cafe Bazaar](https://cafebazaar.ir/app?l=en) and co-led the team's
+transition into a public cloud company, [Sotoon](https://sotoon.ir/).
 
 You can find my resume [here](/shayan-resume.pdf).
 
+</div>
+
+</div>
+
+
+<div class="row">
+
+<div class="col">
+
 ### Publications:
 
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-sm-2 mb-2">
+<img src="pgo-flow.png">
+</div>
+
+<div class="col-sm-10 mb-2">
+
 **Compiling Distributed System Models with PGo**\
-Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh\
-ASPLOS 2023
+Finn Hackett, **Shayan Hosseini**, Renato Costa, Matthew Do, Ivan Beschastnikh\
+<a href="https://asplos-conference.org/" class="text-decoration-none">ASPLOS 2023</a>\
+*Distinguished Artifact Award*\
+<a href="https://dl.acm.org/doi/10.1145/3575693.3575695" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">URL</a>
+<a href="/pgo23.pdf" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">PDF</a>
+<a href="https://github.com/DistCompiler/pgo" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">Code</a>
+
+</div>
+
+</div>
+
+<br>
+
+<div class="row">
+
+<div class="col">
 
 ### Contact:
-Email me to sshayanh at cs.ubc.ca\
-[GitHub](https://github.com/shayanh), [LinkedIn](https://www.linkedin.com/in/shayan-hosseini), [Twitter](https://twitter.com/seshayanh)
+Email me to seshayanh at gmail.com\
+<a href="https://www.linkedin.com/in/sshayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-linkedin"></i><tt>/in/sshayanh</tt></a>
+<a href="https://github.com/shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-github"></i><tt>/shayanh</tt></a>
+<a href="https://twitter.com/xzrta" class="social text-reset text-decoration-none"><i class="fa-brands fa-twitter"></i><tt>/xzrta</tt></a>
+<a href="https://mastodon.social/@shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-mastodon"></i><tt>/@shayanh</tt></a>
+
+</div>
+
+</div>
