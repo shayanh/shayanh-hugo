@@ -33,9 +33,9 @@ runnable Go code. PGo provides system designers with a new ability to model and
 check their designs, and then re-use their modeling efforts to mechanically
 extract runnable implementations of their designs.
 
-<a href="https://distcompiler.github.io/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">Website</a>
-<a href="/pgo23.pdf" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">Paper</a>
-<a href="https://github.com/DistCompiler/pgo" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">Code</a>
+<a href="https://distcompiler.github.io/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Website</a>
+<a href="/pgo23.pdf" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Paper</a>
+<a href="https://github.com/DistCompiler/pgo" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Code</a>
 
 </div>
 
@@ -73,7 +73,7 @@ anonymously share their salary and experience of working in companies with
 others. So far, more than 1000 users have shared their salaries and
 experiences on Peydaa.
 
-<a href="https://peydaa.ir/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">Website</a>
+<a href="https://peydaa.ir/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Website</a>
 
 </div>
 
@@ -110,7 +110,7 @@ for gRPC methods written in Go and supports preconditions and postconditions.
 In the case of contract violation, it logs the contract error message and its
 parameters.
 
-<a href="https://github.com/shayanh/grpc-go-contracts" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button">Code</a>
+<a href="https://github.com/shayanh/grpc-go-contracts" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Code</a>
 
 </div>
 
