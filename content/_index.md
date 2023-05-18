@@ -12,7 +12,7 @@ title: Home
 
 <div class="col-sm-8 order-sm-1 mb-3">
 
-### I'm a software engineer, and I'm on the job market!
+#### I'm a software engineer, and I'm on the job market!
 
 I'm a computer science MSc student at the University of British Columbia. I'm
 working with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) on
@@ -26,8 +26,8 @@ team at [Cafe Bazaar](https://cafebazaar.ir/app?l=en) and co-led the team's
 transition into a public cloud company, [Sotoon](https://sotoon.ir/).
 
 I was an avid competitive programmer back in my undergrad and high school. I was
-an ICPC World Finalist in 2017 and won second place twice in ICPC Tehran
-regional contests.
+an ACM ICPC World Finalist in 2017 and won second place twice in ICPC West Asia
+Regional Contest.
 
 You can find my resume [here](/shayan-resume.pdf).
 
@@ -93,7 +93,10 @@ Finn Hackett, **Shayan Hosseini**, Renato Costa, Matthew Do, Ivan Beschastnikh\
 <div class="col">
 
 ### Contact:
-Email me to seshayanh at gmail.com\
+<a href="mailto:seshayanh@gmail.com" class="social text-reset text-decoration-none"> 
+    <i class="fa-solid fa-envelope"></i>&nbsp;<tt>seshayanh@gmail.com</tt>
+</a>
+<a href="https://www.linkedin.com/in/sshayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-linkedin"></i><tt>/in/sshayanh</tt></a>
 <a href="https://www.linkedin.com/in/sshayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-linkedin"></i><tt>/in/sshayanh</tt></a>
 <a href="https://github.com/shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-github"></i><tt>/shayanh</tt></a>
 <a href="https://twitter.com/xzrta" class="social text-reset text-decoration-none"><i class="fa-brands fa-twitter"></i><tt>/xzrta</tt></a>
