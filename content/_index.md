@@ -97,10 +97,9 @@ Finn Hackett, **Shayan Hosseini**, Renato Costa, Matthew Do, Ivan Beschastnikh\
     <i class="fa-solid fa-envelope"></i>&nbsp;<tt>seshayanh@gmail.com</tt>
 </a>
 <a href="https://www.linkedin.com/in/sshayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-linkedin"></i><tt>/in/sshayanh</tt></a>
-<a href="https://www.linkedin.com/in/sshayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-linkedin"></i><tt>/in/sshayanh</tt></a>
 <a href="https://github.com/shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-github"></i><tt>/shayanh</tt></a>
-<a href="https://twitter.com/xzrta" class="social text-reset text-decoration-none"><i class="fa-brands fa-twitter"></i><tt>/xzrta</tt></a>
-<a href="https://mastodon.social/@shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-mastodon"></i><tt>/@shayanh</tt></a>
+<!-- <a href="https://twitter.com/xzrta" class="social text-reset text-decoration-none"><i class="fa-brands fa-twitter"></i><tt>/xzrta</tt></a> -->
+<!-- <a href="https://mastodon.social/@shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-mastodon"></i><tt>/@shayanh</tt></a> -->
 
 </div>
 
