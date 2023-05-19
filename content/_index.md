@@ -13,7 +13,7 @@ title: Home
 <div class="col">
 
 <div class="float-end mx-3 my-1" style="max-width: 50%;" >
-    <img width="240px" src="/shayan3.jpg">
+    <img width="240px" alt="Shayan's profile image" src="/shayan3.jpg">
 </div>
 
 **I'm a computer science MSc student at the University of British Columbia.** I'm
@@ -79,7 +79,7 @@ accepted to [ASPLOS](https://www.asplos-conference.org/asplos2023/)!
 <div class="row">
 
 <div class="col-sm-2 mb-2">
-<img src="pgo-flow.png">
+<img src="pgo-flow.png" alt="PGo workflow diagram">
 </div>
 
 <div class="col-sm-10 mb-2">

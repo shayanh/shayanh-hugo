@@ -22,7 +22,7 @@ date: 2023-03-17T13:16:44-07:00
 <div class="row">
 
 <div class="col-sm-3 order-sm-2 mb-3">
-<img src="/pgo-flow.png">
+<img src="/pgo-flow.png" alt="PGo workflow diagram">
 </div>
 
 <div class="col-sm-9 order-sm-1">
@@ -68,7 +68,7 @@ extract runnable implementations of their designs.
 <div class="row">
 
 <div class="col-sm-3 order-sm-2 mb-3">
-<img src="/peydaa.png">
+<img src="/peydaa.png" alt="Peydaa logo">
 </div>
 
 <div class="col-sm-9 order-sm-1">
@@ -105,7 +105,7 @@ experiences on Peydaa.
 <div class="row">
 
 <div class="col-sm-3 order-sm-2 mb-3">
-<img src="/grpc-contracts.png">
+<img src="/grpc-contracts.png" alt="gRPC Go Contracts logo">
 </div>
 
 <div class="col-sm-9 order-sm-1">

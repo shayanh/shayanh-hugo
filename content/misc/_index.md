@@ -23,7 +23,7 @@ Spotify](https://open.spotify.com/playlist/0c6vHqSegYiJYLegscZmte?si=6555b59fadb
 
 <div class="col-sm-4">
 
-<img src="/icpc2017.jpeg">
+<img src="/icpc2017.jpeg" alt="Photo of shayan in a programming contest">
 <figcaption class="figure-caption text-center">Me in a programming contest</figcaption>
 
 <br>

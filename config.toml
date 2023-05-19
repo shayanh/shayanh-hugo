@@ -35,6 +35,26 @@ lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [params]
 footer = "Last update: {Lastmod}"
+keywords = [
+    "Shayan Hosseini",
+    "Distributed Systems",
+    "Go",
+    "Golang",
+    "Senior Software Engineer",
+    "Software Engineer",
+    "Python",
+    "Django",
+    "Kubernetes",
+    "Formal Verification",
+    "TLA+",
+    "Linux",
+    "Personal Page",
+    "Blog",
+    "UBC",
+    "ACM ICPC",
+    "C++",
+    "Algorithms"
+]
 
 [markup]
   [markup.goldmark]
