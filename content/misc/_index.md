@@ -5,7 +5,7 @@ date: 2023-03-17T14:13:46-07:00
 
 <div class="row">
 
-<div class="col-sm-6">
+<div class="col-sm-8">
 
 I watch movies in my free time. You can check out my [Letterboxd
 account](https://letterboxd.com/shayanh/) to learn about my favorites and the
@@ -21,10 +21,14 @@ Spotify](https://open.spotify.com/playlist/0c6vHqSegYiJYLegscZmte?si=6555b59fadb
 
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-4">
 
 <img src="/icpc2017.jpeg">
 <figcaption class="figure-caption text-center">Me in a programming contest</figcaption>
+
+<br>
+
+<iframe height='454' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/78883322/latest-rides/6e3ed5ed725aac0cb78e93872e6d6b11a7c2cd83'></iframe>
 
 </div>
 

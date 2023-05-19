@@ -10,14 +10,22 @@ date: 2023-03-17T13:16:44-07:00
 
 ### PGo
 
+##### Model compiler for distributed systems
+
+<a href="https://distcompiler.github.io/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-earth-americas"></i> Website</a>
+<a href="/pgo23.pdf" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-file-pdf"></i> Paper</a>
+<a href="https://github.com/DistCompiler/pgo" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-brands fa-github"></i> Code</a>
+
 </div>
 </div>
 
 <div class="row">
 
-<div class="col-sm-9">
+<div class="col-sm-3 order-sm-2 mb-3">
+<img src="/pgo-flow.png">
+</div>
 
-##### Model compiler for distributed systems
+<div class="col-sm-9 order-sm-1">
 
 Distributed systems are difficult to design and implement correctly. In
 response, both research and industry are exploring applications of formal
@@ -33,14 +41,6 @@ runnable Go code. PGo provides system designers with a new ability to model and
 check their designs, and then re-use their modeling efforts to mechanically
 extract runnable implementations of their designs.
 
-<a href="https://distcompiler.github.io/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Website</a>
-<a href="/pgo23.pdf" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Paper</a>
-<a href="https://github.com/DistCompiler/pgo" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Code</a>
-
-</div>
-
-<div class="col-sm-3">
-<img src="/piggo.png">
 </div>
 
 </div>
@@ -58,14 +58,20 @@ extract runnable implementations of their designs.
 
 ### Peydaa
 
+##### Comparison of salaries and companies
+
+<a href="https://peydaa.ir/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-earth-americas"></i> Website</a>
+
 </div>
 </div>
 
 <div class="row">
 
-<div class="col-sm-9">
+<div class="col-sm-3 order-sm-2 mb-3">
+<img src="/peydaa.png">
+</div>
 
-##### Comparison of salaries and companies
+<div class="col-sm-9 order-sm-1">
 
 In 2021, I started the Peydaa project. Peydaa is a non-profit platform to make
 transparency in the Iranian job market. It is a website where people can
@@ -73,12 +79,6 @@ anonymously share their salary and experience of working in companies with
 others. So far, more than 1000 users have shared their salaries and
 experiences on Peydaa.
 
-<a href="https://peydaa.ir/" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Website</a>
-
-</div>
-
-<div class="col-sm-3">
-<img src="/peydaa.png">
 </div>
 
 </div>
@@ -97,12 +97,18 @@ experiences on Peydaa.
 ### gRPC Go Contracts
 ##### Verify the communication of your microservices
 
+<a href="https://github.com/shayanh/grpc-go-contracts" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-brands fa-github"></i> Code</a>
+
 </div>
 </div>
 
 <div class="row">
 
-<div class="col-sm-9">
+<div class="col-sm-3 order-sm-2 mb-3">
+<img src="/grpc-contracts.png">
+</div>
+
+<div class="col-sm-9 order-sm-1">
 
 Verify the communication of your microservices by writing contracts for your
 RPCs.  gRPC Go Contracts provides contract programming (aka Design by Contract)
@@ -110,12 +116,6 @@ for gRPC methods written in Go and supports preconditions and postconditions.
 In the case of contract violation, it logs the contract error message and its
 parameters.
 
-<a href="https://github.com/shayanh/grpc-go-contracts" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank">Code</a>
-
-</div>
-
-<div class="col-sm-3">
-<img src="/grpc-contracts.png">
 </div>
 
 </div>

@@ -35,3 +35,8 @@ lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [params]
 footer = "Last update: {Lastmod}"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      linkify = false
