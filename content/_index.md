@@ -55,7 +55,7 @@ You can find my resume [here](/shayan-resume.pdf).
 the [UBC article](https://www.cs.ubc.ca/news/2023/05/distinguished-artifact-award-asplos-conference-computer-science-researchers) 
 about it.
 * Sep 2022: Our paper "Compiling Distributed System Models with PGo" is
-accepted to [ASPLOS](https://www.asplos-conference.org/asplos2023/)!
+accepted to [ASPLOS'23](https://www.asplos-conference.org/asplos2023/)!
 * Jun 2022: I am starting my internship at 
 [Microsoft Research Networking Research Group](https://www.microsoft.com/en-us/research/group/networking-research/).
 * Feb 2022: [Presented PGo](https://www.youtube.com/watch?v=H6-dQQSikik) in AWS Automated Reasoning Group.
@@ -87,7 +87,7 @@ accepted to [ASPLOS](https://www.asplos-conference.org/asplos2023/)!
 **Compiling Distributed System Models with PGo**\
 Finn Hackett, **Shayan Hosseini**, Renato Costa, Matthew Do, Ivan Beschastnikh\
 <a href="https://asplos-conference.org/" class="text-decoration-none">ASPLOS 2023</a>\
-*Distinguished Artifact Award*\
+<i class="fa-solid fa-trophy"></i> *Distinguished Artifact Award*\
 <a href="https://dl.acm.org/doi/10.1145/3575693.3575695" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-earth-americas"></i> URL</a>
 <a href="/pgo23.pdf" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/DistCompiler/pgo" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-brands fa-github"></i> Code</a>
