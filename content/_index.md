@@ -13,7 +13,7 @@ title: Home
 <div class="col">
 
 <div class="float-end mx-3 my-1" style="max-width: 50%;" >
-    <img width="240px" alt="Shayan's profile image" src="/shayan3.jpg">
+    <img width="240px" alt="Shayan's profile image" src="/shayan4.jpg">
 </div>
 
 **I'm a computer science MSc student at the University of British Columbia.** I'm
