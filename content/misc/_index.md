@@ -12,12 +12,15 @@ account](https://letterboxd.com/shayanh/) to learn about my favorites and the
 recent films I watched.
 
 I’m a big soccer fan. I follow European soccer leagues and play soccer myself.
-Besides soccer, I enjoy weigh lifting and running. I run distances up to 10k.
+Besides soccer, I enjoy working out in the gym and running. I run distances up to 10k.
 
 I spend a lot of time listening to music every day. I particularly like Persian
-rock music. We have been maintaining a Persian dance playlist with
-some of my friends since a couple of years ago, which you can check out [on
+rock music. We have been maintaining a Persian dance playlist with some of my
+friends for a few years now, which you can check it out [on
 Spotify](https://open.spotify.com/playlist/0c6vHqSegYiJYLegscZmte?si=6555b59fadb044f2).
+
+I don't play video games usually, but I hold a world record in a mobile game,
+[Jelly Juggle](https://apps.apple.com/us/app/jelly-juggle/id1175902969).
 
 I love the outdoors and hiking, especially in the beautiful British Columbia.
 
