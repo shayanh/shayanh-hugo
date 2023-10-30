@@ -51,6 +51,7 @@ You can find my resume [here](/shayan-resume.pdf).
 
 ### News:
 
+* Sep 2023: We hosted the [Vancouver Unikraft Hackathon](https://unikraft.org/hackathons/2023-09-vancouver) at UBC!
 * Jul 2023: Presented my MSc thesis work!
 * Mar 2023: We won the Distinguished Artifact Award at ASPLOS. Check out
 the [UBC article](https://www.cs.ubc.ca/news/2023/05/distinguished-artifact-award-asplos-conference-computer-science-researchers) 
