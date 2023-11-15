@@ -80,14 +80,34 @@ accepted to [ASPLOS'23](https://www.asplos-conference.org/asplos2023/)!
 
 <div class="row">
 
-<div class="col-sm-2 mb-2">
+<div class="col-sm-3 mb-2">
+<img src="raftstore.png" alt="MSc Thesis Thumbnail">
+</div>
+
+<div class="col-sm-9 mb-2 align-self-end">
+
+**Reconciling the Model-Implementation Duality in PGo**\
+*Shayan Hosseini*\
+MSc Thesis, University of British Columbia\
+<a href="http://hdl.handle.net/2429/86484" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-earth-americas"></i> URL</a>
+<a href="/ubc_2024_may_hosseini_shayan.pdf" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+
+</div>
+
+</div>
+
+<br>
+
+<div class="row">
+
+<div class="col-sm-3 mb-2">
 <img src="pgo-flow.png" alt="PGo workflow diagram">
 </div>
 
-<div class="col-sm-10 mb-2">
+<div class="col-sm-9 mb-2 align-self-end">
 
 **Compiling Distributed System Models with PGo**\
-Finn Hackett, **Shayan Hosseini**, Renato Costa, Matthew Do, Ivan Beschastnikh\
+Finn Hackett, *Shayan Hosseini*, Renato Costa, Matthew Do, Ivan Beschastnikh\
 <a href="https://asplos-conference.org/" class="text-decoration-none">ASPLOS 2023</a>\
 <i class="fa-solid fa-trophy"></i> *Distinguished Artifact Award*\
 <a href="https://dl.acm.org/doi/10.1145/3575693.3575695" class="btn btn-sm btn-outline-dark z-depth-0 pub-btn" role="button" target="_blank"><i class="fa-solid fa-earth-americas"></i> URL</a>
