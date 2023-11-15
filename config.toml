@@ -15,8 +15,8 @@ enableGitInfo = true
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Resume"
-    url = "/shayan-resume.pdf"
+    name = "Blog"
+    url = "/blog/"
     weight = 2
 [[menu.main]]
     name = "Projects"
