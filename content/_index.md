@@ -60,7 +60,7 @@ about it.
 accepted to [ASPLOS'23](https://www.asplos-conference.org/asplos2023/)!
 * Jun 2022: I am starting my internship at 
 [Microsoft Research Networking Research Group](https://www.microsoft.com/en-us/research/group/networking-research/).
-* Feb 2022: [Presented PGo](https://www.youtube.com/watch?v=H6-dQQSikik) in AWS Automated Reasoning Group.
+* Feb 2022: [Presented PGo](https://www.youtube.com/watch?v=H6-dQQSikik) at AWS Automated Reasoning Group.
 
 </div>
 
