@@ -29,7 +29,7 @@ into a public cloud company, [Sotoon](https://sotoon.ir/). I started and led the
 CDN team there, serving a few percent of the internet traffic in Iran.
 
 I was an avid competitive programmer back in the day. I was
-an **ACM ICPC World Finalist** in 2017 and won second place twice in the ACM ICPC West Asia
+an ACM ICPC World Finalist in 2017 and won second place twice in the ACM ICPC West Asia
 Regional Contest. In high school, I won a silver medal in the Iranian National Olympiad in
 Informatics.
 
