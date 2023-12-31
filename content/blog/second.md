@@ -6,11 +6,15 @@ lang: fa
 draft: true
 ---
 
+<div dir="rtl">
+
 پرنده کس و کونت کاشکی باشم. در ادامه این متن یک فرمول ریاضی آمده است:
 
 `$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
 
 حال باید یک کد به زبان گو را ببینیم:
+
+</div>
 
 ```go
 package main
@@ -20,4 +24,8 @@ func main() {
 }
 ```
 
+<div dir="rtl">
+
 و ادامه متن به زبان فارسی.
+
+</div>

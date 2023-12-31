@@ -35,9 +35,9 @@ Informatics.
 
 You can find my resume [here](/shayan-resume.pdf).
 
-<a href="mailto:seshayanh@gmail.com" class="social text-reset text-decoration-none"><i class="fa-solid fa-envelope" style="padding-right: 3px;"></i><tt>seshayanh@gmail.com</tt></a>
-<a href="https://www.linkedin.com/in/sshayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-linkedin"></i><tt>/in/sshayanh</tt></a>
-<a href="https://github.com/shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-github"></i><tt>/shayanh</tt></a>
+<a href="mailto:seshayanh@gmail.com" class="social"><i class="fa-solid fa-envelope" style="padding-right: 3px;"></i><tt>seshayanh@gmail.com</tt></a>
+<a href="https://www.linkedin.com/in/sshayanh" class="social"><i class="fa-brands fa-linkedin"></i><tt>/in/sshayanh</tt></a>
+<a href="https://github.com/shayanh" class="social"><i class="fa-brands fa-github"></i><tt>/shayanh</tt></a>
 <!-- <a href="https://twitter.com/xzrta" class="social text-reset text-decoration-none"><i class="fa-brands fa-twitter"></i><tt>/xzrta</tt></a> -->
 <!-- <a href="https://mastodon.social/@shayanh" class="social text-reset text-decoration-none"><i class="fa-brands fa-mastodon"></i><tt>/@shayanh</tt></a> -->
 
