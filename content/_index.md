@@ -16,7 +16,7 @@ title: Home
     <img width="240px" alt="Shayan's profile image" src="/shayan4.jpg">
 </div>
 
-**I'm a software engineer at [Neon](https://neon.tech).**
+**I'm a software engineer at [Axiom](https://www.axiom.xyz/).**
 
 **I got my MSc in computer science from the University of British Columbia.** I
 worked with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) on
@@ -51,7 +51,7 @@ You can find my resume [here](/shayan-resume.pdf).
 
 ### News:
 
-* Nov 2023: Joined [Neon](https://neon.tech).
+* Apr 2024: Joined [Axiom](https://www.axiom.xyz/).
 * Sep 2023: Hosted the [Vancouver Unikraft Hackathon](https://unikraft.org/hackathons/2023-09-vancouver) at UBC!
 * Jul 2023: Presented my MSc thesis work!
 * Mar 2023: Won the Distinguished Artifact Award at ASPLOS. Check out
